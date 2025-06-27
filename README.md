@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Agustín Calpe</h1>
-<hr>
+<h1 align="center"><b>Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Agustín Calpe </b></h1>
+
 <pre>
   <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" height=160em/>
 📚 I am studying for a degree in computer science
@@ -10,11 +10,11 @@
 🌟 Main language: Python 😁
 </pre>
 <hr>
-<br>
 
-## 🛠 &nbsp;Tech Stack
 
-#### 🔧 Languages
+# 🛠 Tech Stack
+
+### 🔧 Languages
 
 <img alt="Night Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2c2MGcybmQ0NjVhbXl0NTZubDJvaGN0MmZjMG50ajQ5YzV0YWQ1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" align="right" height=250em/>
 
@@ -24,21 +24,21 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🗃 Databases
+### 🗃 Databases
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### 🔧 Tools
+### 🔧 Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<br>
+<br><br>
 
-## &nbsp; 📊 Most Used Language
+# 📊 GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Ezagu">
@@ -49,19 +49,20 @@
 
 <br>
 
-## &nbsp; 🚀 My Top Projects
+# 🚀 My Top Projects
+
 <p align = "center">
   <a href="https://github.com/Ezagu/Minesweeper">
-    <img height="130em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Ezagu&repo=minesweeper&theme=onedark" />
+    <img height="130em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Ezagu&repo=minesweeper&theme=monokai"/>
   </a>    
   <a href="https://github.com/Ezagu/CalculadoraPython">
-    <img height="130em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Ezagu&repo=CalculadoraPython&theme=onedark"/>
+    <img height="130em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Ezagu&repo=CalculadoraPython&theme=monokai"/>
   </a>
 </p>
 
 <br>
-
-## &nbsp; 🤝 Connect With Me
+  
+# 🤝 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/agust%C3%ADn-calpe-monz%C3%B3n-713275309/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -74,5 +75,4 @@
   </a>
 </p>
 
-<br><br>
-<h1 align="center">Thanks for the visit 🫡🤙</h1>
+<h1 align="center">Thanks for Visiting 🫡🤙</h1>
