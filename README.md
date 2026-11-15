@@ -1,22 +1,20 @@
 <h1 align="center"><b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Agustín Calpe</b></h1>
 
-<p align="center">
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="320"/>
-</p>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="200"/>
 
-- 📚 I am studying for a degree in computer science
-- 💻 I am mainly a Backend Developer
-- 📝 I have a strong interest in Software Engineering and Design
-- 🔝 Eager to learn and grow
-- 🌟 Main languages: JavaScript & TypeScript 😁
+- 🎓 Computer Science student
+- 💻 Backend Developer focused on Node.js, TypeScript & Python
+- ⚡ Building real-time apps with Socket.io and APIs with REST & GraphQL
+- 📡 Currently working on an IoT platform: ESP32 + LoRa sensors with a FastAPI backend, deployed on AWS & Cloudflare
+- 📐 Passionate about Software Engineering: clean architecture, design and good practices
+- 🗂️ Agile workflow, organizing my work with Jira, Trello & ClickUp
+- 🤖 Using AI agents like Claude Code in my daily workflow
+- 📍 Based in Buenos Aires, Argentina
 
+<br clear="right">
 <hr>
 
 # 🛠 Tech Stack
-
-<p align="center">
-  <img alt="Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2c2MGcybmQ0NjVhbXl0NTZubDJvaGN0MmZjMG50ajQ5YzV0YWQ1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300"/>
-</p>
 
 ### 🧠 Programming Languages
 
@@ -68,6 +66,9 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
