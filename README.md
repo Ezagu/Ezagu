@@ -1,7 +1,5 @@
 <h1 align="center"><b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Agustín Calpe</b></h1>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="200"/>
-
 - 🎓 Computer Science student
 - 💻 Backend Developer focused on Node.js, TypeScript & Python
 - ⚡ Building real-time apps with Socket.io and APIs with REST & GraphQL
@@ -11,7 +9,6 @@
 - 🤖 Using AI agents like Claude Code in my daily workflow
 - 📍 Based in Buenos Aires, Argentina
 
-<br clear="right">
 <hr>
 
 # 🛠 Tech Stack
@@ -35,7 +32,6 @@
 ![Prisma](https://img.shields.io/badge/Prisma-%23323330.svg?style=for-the-badge&logo=prisma)
 ![Mongoose](https://img.shields.io/badge/Mongoose-%23323330.svg?style=for-the-badge&logo=mongoose)
 ![Zod](https://img.shields.io/badge/Zod-%23323330.svg?style=for-the-badge&logo=zod)
-![JWT](https://img.shields.io/badge/JWT-%23323330.svg?style=for-the-badge&logo=jsonwebtokens)
 
 ### 🎨 Frontend
 
@@ -69,6 +65,7 @@
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -79,8 +76,8 @@
 
 <p align="center">
   <a href="https://github.com/Ezagu">
-    <img width="400" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Ezagu&layout=compact&langs_count=8&theme=dracula"/>
-    <img width="400" src="https://streak-stats.demolab.com/?user=Ezagu&theme=dracula&hide_border=false"/>
+    <img width="48%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Ezagu&layout=compact&langs_count=8&theme=dracula&card_width=369"/>
+    <img width="48%" src="https://streak-stats.demolab.com/?user=Ezagu&theme=dracula&hide_border=false"/>
   </a>
 </p>
 
@@ -115,7 +112,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://wa.me/5491125875034" target="_blank">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2B54%2011%202587%205034-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
   <a href="https://www.instagram.com/agustincalpe03/?hl=es" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
